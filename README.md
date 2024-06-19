@@ -1,2 +1,5 @@
 # Blog
-github pages site
+
+Static blogging site 
+
+created with hugo and hosted with github pages
