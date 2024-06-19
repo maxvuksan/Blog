@@ -1,6 +1,6 @@
 # Github Pages Source 
 
-#### Created with Hugo
+#### Powered by Hugo
 
 Source code for 
 https://maxvuksan.github.io
