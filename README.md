@@ -1,5 +1,10 @@
-# Blog
+# Github Pages Source 
 
-Static blogging site 
+#### Created with Hugo
 
-created with hugo and hosted with github pages
+Source code for 
+https://maxvuksan.github.io
+
+the contents of the /public directory are deployed into the following repository for production
+https://github.com/maxvuksan/maxvuksan.github.io
+
